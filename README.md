@@ -2,7 +2,7 @@
 
 # bullgit stickers
 
-![bullgit stickers](https://raw.githubusercontent.com/bullgit/stickers/master/docs/images/iphone.png)
+<img src="https://raw.githubusercontent.com/bullgit/stickers/master/docs/images/iphone.png" alt="bullgit stickers" width="210">
 
 _Do you want your messages to be more bullgit? Don't look further! This is the app for bullgit messages to the max! Go bullgitify all of them!_
 
