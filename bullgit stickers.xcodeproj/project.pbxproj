@@ -106,12 +106,12 @@
 				TargetAttributes = {
 					B992110B1D96905E0051B85F = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = ZKYCGLH74U;
+						DevelopmentTeam = TRLMQKJQ97;
 						ProvisioningStyle = Automatic;
 					};
 					B992110F1D96905F0051B85F = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = ZKYCGLH74U;
+						DevelopmentTeam = TRLMQKJQ97;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -254,9 +254,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = ZKYCGLH74U;
+				DEVELOPMENT_TEAM = TRLMQKJQ97;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hardykrause.bullgit-stickers.StickerPackExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.johjakob.bullgit-stickers.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -267,9 +267,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = ZKYCGLH74U;
+				DEVELOPMENT_TEAM = TRLMQKJQ97;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hardykrause.bullgit-stickers.StickerPackExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.johjakob.bullgit-stickers.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -280,9 +280,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = ZKYCGLH74U;
+				DEVELOPMENT_TEAM = TRLMQKJQ97;
 				INFOPLIST_FILE = "bullgit stickers/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hardykrause.bullgit-stickers";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.johjakob.bullgit-stickers";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -292,9 +292,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = ZKYCGLH74U;
+				DEVELOPMENT_TEAM = TRLMQKJQ97;
 				INFOPLIST_FILE = "bullgit stickers/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hardykrause.bullgit-stickers";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.johjakob.bullgit-stickers";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -319,6 +319,7 @@
 				B992111B1D96905F0051B85F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B992111D1D96905F0051B85F /* Build configuration list for PBXNativeTarget "bullgit stickers" */ = {
 			isa = XCConfigurationList;
@@ -327,6 +328,7 @@
 				B992111F1D96905F0051B85F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
