@@ -8,7 +8,7 @@ _Do you want your messages to be more bullgit? Don't look further! This is the a
 
 [bullgit stickers](https://bullg.it/stickers) is an iMessage app for iPhone, iPad and iPod touch running iOS 10. It contains multiple *RAWESOME* bullgit related stickers you can use to pimp your messages.
 
-**bullgit stickers will be available in the App Store soon!**
+[Download on the App Store](https://appstore.com/bullgit-stickers)
 
 ## Moar stickers!!!
 
