@@ -1,0 +1,128 @@
+/* Made with <3 in Germany */
+
+/* Variables */
+
+$black: #000;
+$white: #fff;
+$blue: #1393d5;
+
+$font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Symbol";
+
+$tinyText: 9pt;
+$smallText: 12pt;
+$text: 16pt;
+$largeText: 21pt;
+$hugeText: 37pt;
+
+$shadow: 0 4px 10px rgba(0, 0, 0, .2);
+$largeShadow: 0 16px 40px rgba(0, 0, 0, .2);
+
+/* General */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: $black;
+	font-family: $font;
+	font-size: $text;
+	text-decoration: none;
+	outline: none;
+	-webkit-tap-highlight-color: transparent;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+	background: $blue;
+}
+
+header {
+  padding: 8% 8% 20px 8%;
+	width: 100%;
+  background: $white;
+	order: 1;
+
+  img {
+    width: 120px;
+  }
+}
+
+h1 {
+	margin: 20px 0 10px 0;
+	font-size: $hugeText;
+	font-weight: 300;
+	cursor: default;
+}
+
+main {
+  padding: 20px 8% 20px 8%;
+  color: $white;
+  background: $blue;
+	order: 2;
+
+	p {
+		line-height: 1.5;
+	}
+
+	img {
+		margin-top: 20px;
+		width: 180px;
+	}
+}
+
+p {
+  color: $white;
+}
+
+/* Classes */
+
+.phone {
+  margin: 8%;
+  width: 210px;
+  float: left;
+	order: 3;
+}
+
+footer {
+	padding-bottom: 8%;
+	clear: both;
+	text-align: center;
+
+	p, a {
+		color: $white;
+		font-size: $smallText;
+	}
+
+	a {
+		font-weight: bold;
+	}
+}
+
+/* Mobile */
+
+@media screen and (max-width: 700px) {
+	main img {
+		margin: 20px auto 0 auto;
+		display: block;
+	}
+
+	.wrapper {
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: column;
+   	flex-flow: column;
+		-webkit-flex-grow: 1;
+		flex-grow: 1;
+		-webkit-align-items: center;
+   	align-items: center;
+
+	}
+
+	.phone {
+		float: none;
+	}
+}
